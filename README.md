@@ -7,9 +7,9 @@ I build end-to-end products across backend systems, data pipelines, and machine 
 ---
 
 ## 🏢 Internships
-- **Autodesk** - Machine Learning Intern  
-- **UKG** - AI Software Developer Intern  
-- **Biomomentum Inc.** - Software Developer Intern  
+- **Autodesk** – Machine Learning Intern *(January 2026 - April 2026)*  
+- **UKG** – AI Software Developer Intern *(May 2025 - Aug 2025)*  
+- **Biomomentum Inc.** – Software Developer Intern *(May 2024 - Aug 2024)*  
 
 ## 🛠️ Design teams
 - **McGill Robotics**  
