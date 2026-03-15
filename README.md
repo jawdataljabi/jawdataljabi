@@ -16,31 +16,6 @@ Electrical Engineering & Applied AI Student @ McGill University 🍁
 - **McGill AI Lab** – Machine Learning Researcher *(September 2024 - December 2025)*
 - **Marianopolis College** – Teaching Assistant *(January 2024 - December 2024)*  
 
-
----
-
-## What I have worked on
-- **AI + Automation**: agent workflows, MCP tool calling, multi-step reasoning, chat-style interfaces  
-- **Backend + APIs**: designing service boundaries, clean request flows, API contracts, integrating internal tools  
-- **RAG + Data Pipelines**: ingestion → chunking → embeddings → retrieval evals, metadata handling, semantic caching  
-- **Real-time Systems**: token streaming, low-latency processing, live inference, async + multithreading  
-- **Monitoring + LLM Ops**: end-to-end tracing, dashboards/alerts, prompt experiments, offline evals and regressions  
-- **Infra + Deployment**: containerized services, IaC-driven environments, deployment workflows, production debugging  
-- **Applied ML**: model training + experimentation, fine-tuning, architecture comparisons, production-focused modeling  
-
----
-
-## Toolbox
-- **Languages**: Python, C/C++, Java, SQL  
-- **ML**: PyTorch, TensorFlow, NumPy  
-- **AI tooling**: LangChain, LangGraph, Amazon Bedrock + Strands
-- **Backend**: FastAPI, Flask  
-- **Infra**: AWS, GCP, Docker, Kubernetes, Terraform  
-- **Data**: MySQL, MongoDB, Pandas  
-- **LLM eval/ops**: Opik  
-- **Observability**: OpenTelemetry, Grafana, Splunk  
-- **Dev**: Git, GitHub  
-
 ---
 
 ## Featured projects
