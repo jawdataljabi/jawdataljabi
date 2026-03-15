@@ -1,23 +1,25 @@
-# Hi, I’m Jawdat 😎
+# Hi, I’m Jawdat ●‿●
 
-Electrical Engineering + Applied AI @ McGill University 🍁  
+Electrical Engineering & Applied AI Student @ McGill University 🍁  
 
-I build end-to-end products across backend systems, data pipelines, and machine learning.
+**Check out my portfolio:** https://jawdataljabi.com
 
 ---
 
-## 🏢 Internships
+## Internships
 - **Autodesk** – Machine Learning Intern *(January 2026 - April 2026)*  
 - **UKG** – AI Software Developer Intern *(May 2025 - Aug 2025)*  
 - **Biomomentum Inc.** – Software Developer Intern *(May 2024 - Aug 2024)*  
 
-## 🛠️ Design teams
-- **McGill Robotics**  
-- **McGill AI Lab**  
+## Extracurricular & Leadership
+- **McGill Robotics** – System Manager & Developer *(September 2023 - Present)*  
+- **McGill AI Lab** – Machine Learning Researcher *(September 2024 - December 2025)*
+- **Marianopolis College** – Teaching Assistant *(January 2024 - December 2024)*  
+
 
 ---
 
-## 🚀 What I have worked on
+## What I have worked on
 - **AI + Automation**: agent workflows, MCP tool calling, multi-step reasoning, chat-style interfaces  
 - **Backend + APIs**: designing service boundaries, clean request flows, API contracts, integrating internal tools  
 - **RAG + Data Pipelines**: ingestion → chunking → embeddings → retrieval evals, metadata handling, semantic caching  
@@ -28,7 +30,7 @@ I build end-to-end products across backend systems, data pipelines, and machine 
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 - **Languages**: Python, C/C++, Java, SQL  
 - **ML**: PyTorch, TensorFlow, NumPy  
 - **AI tooling**: LangChain, LangGraph, Amazon Bedrock + Strands
@@ -41,7 +43,7 @@ I build end-to-end products across backend systems, data pipelines, and machine 
 
 ---
 
-## 🌟 Featured projects
+## Featured projects
 - **COMP551-F25** - Applied ML coursework: regression, regularization, deep learning, and text classification  
   https://github.com/Steev3n/COMP551-F25
 - **SignSync** - Real-time ASL → text → speech for live meeting use  
@@ -51,7 +53,6 @@ I build end-to-end products across backend systems, data pipelines, and machine 
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 - **LinkedIn** - https://linkedin.com/in/jawdataljabi  
 - **Email** - jawdataljabi@gmail.com
-- **Portfolio** - https://jawdataljabi.com  
