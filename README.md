@@ -2,7 +2,7 @@
 
 Electrical Engineering & Applied AI Student @ McGill University 🍁  
 
-**Check out my portfolio:** https://jawdataljabi.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jawdataljabi.com)
 
 ---
 
@@ -29,5 +29,5 @@ Electrical Engineering & Applied AI Student @ McGill University 🍁
 ---
 
 ## Let's Connect!
-- **LinkedIn** - https://linkedin.com/in/jawdataljabi  
-- **Email** - jawdataljabi@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawdataljabi)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawdataljabi@gmail.com)
