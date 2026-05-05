@@ -5,7 +5,7 @@ Electrical Engineering & Applied AI Student @ McGill University 🍁
 ---
 
 ## Internships
-- **IBM** – AI Specialist Intern *(Incoming)*  
+- **IBM** – AI Specialist Intern *(May 2026 - August 2026)*  
 - **Autodesk** – Machine Learning Intern *(January 2026 - April 2026)*  
 - **UKG** – AI Software Developer Intern *(May 2025 - Aug 2025)*  
 - **Biomomentum Inc.** – Software Developer Intern *(May 2024 - Aug 2024)*  
@@ -13,7 +13,7 @@ Electrical Engineering & Applied AI Student @ McGill University 🍁
 ---
 
 ## Extracurricular & Leadership
-- **McGill Robotics** – System Manager & Developer *(September 2023 - Present)*  
+- **McGill Robotics** – System Manager & Developer *(September 2023 - April 2026)*  
 - **McGill AI Lab** – Machine Learning Researcher *(September 2024 - December 2025)*  
 - **Marianopolis College** – Teaching Assistant *(January 2024 - December 2024)*  
 
