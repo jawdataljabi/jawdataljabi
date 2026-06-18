@@ -20,10 +20,27 @@ Electrical Engineering & Applied AI Student @ McGill University 🍁
 ---
 
 ## Featured Projects
-- 🕶️ [**SoftEyes**](https://github.com/jawdataljabi/CareXR-2026) 🏆 – Real-time AR glasses companion that helps autistic individuals navigate face-to-face conversations through live emotion detection and gentle in-vision cues
-- 🧏 [**SignSync**](https://github.com/jawdataljabi/SignSync) – Real-time ASL → text → speech for live meeting use
-- 💭 [**Claudio**](https://github.com/AhmadAl-Jabi/Claudio) 🏆 – AR visual memory assistant that helps individuals with dementia locate misplaced objects through continuous camera monitoring and natural language queries
-- 📚 [**COMP551-F25**](https://github.com/Steev3n/COMP551-F25) – Applied ML coursework: regression, regularization, deep learning, and text classification
+
+### [Claudio](https://github.com/AhmadAl-Jabi/Claudio)
+
+**Anthropic Hackathon 1st Place Winner 🏆**
+
+- AR visual memory assistant that helps individuals with dementia locate misplaced objects using continuous camera monitoring and natural language queries.
+
+### [SoftEyes](https://github.com/jawdataljabi/CareXR-2026)
+
+**Snap Inc. Hackathon 1st Place Winner 🏆**
+
+- Real-time AR glasses companion that helps autistic individuals navigate face-to-face conversations through live emotion detection and gentle in-vision cues.
+
+### [SignSync](https://github.com/jawdataljabi/SignSync)
+
+- Real-time ASL to text to speech system for live meeting accessibility.
+
+### [COMP551-F25](https://github.com/Steev3n/COMP551-F25)
+
+- Applied machine learning coursework covering regression, regularization, deep learning, and text classification.
+
 
 ---
 
