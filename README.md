@@ -6,7 +6,7 @@ Electrical Engineering @ McGill University 🍁
 
 ## Internships
 - **Shopify** – Machine Learning Engineer Intern *(September 2026 - Present)*  
-- **IBM** – AI Specialist Intern *(May 2026 - August 2026)*  
+- **IBM** – Forward Deployed Engineer Intern *(May 2026 - August 2026)*  
 - **Autodesk** – Machine Learning Engineer Intern *(January 2026 - April 2026)*  
 - **UKG** – AI Software Developer Intern *(May 2025 - Aug 2025)*  
 - **Biomomentum Inc.** – Software Developer Intern *(May 2024 - Aug 2024)*  
